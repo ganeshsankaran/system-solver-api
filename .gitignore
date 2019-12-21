@@ -1,0 +1,8 @@
+# Files
+.DS_Store
+*.pyc
+localhost.txt
+
+# Folders
+__pycache__
+
